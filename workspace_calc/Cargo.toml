@@ -1,0 +1,4 @@
+# Cargo.toml (workspace root, no [package]!)
+[workspace]
+resolver = "2"
+members = ["crates/math", "crates/calc"]
