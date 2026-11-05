@@ -1,0 +1,7 @@
+2026-03-30 10:00:01 INFO Server is starting up
+2026-03-30 10:00:05 WARN Database connection slow
+2026-03-30 10:01:10 ERROR Failed to load configuration file
+2026-03-30 10:02:00 INFO User authentication successful
+2026-03-30 10:03:15 DEBUG Cache miss for key user_1
+short
+2026-03-30 10:05:00 ERROR Out of memory exception
